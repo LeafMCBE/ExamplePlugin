@@ -1,0 +1,9 @@
+{
+  "name": "leafmcbe-example-plugin",
+  "version": "1.0.0",
+  "description": "A example plugin of LeafMCBE.",
+  "type": "module",
+  "main": "index.js",
+  "author": "hvlxh",
+  "license": "MIT"
+}
